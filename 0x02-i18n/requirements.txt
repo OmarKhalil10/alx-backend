@@ -1,0 +1,14 @@
+alembic==1.4.3
+flask_babel==2.0.0
+Flask==2.1.0
+gunicorn==20.0.4
+Flask-Cors==3.0.8
+Flask-RESTful==0.3.7
+requests==2.22.0
+psycopg2
+psycopg2-binary==2.8.2
+Flask-Mail==0.9.1
+python-dotenv
+six==1.15.0
+Jinja2==3.0
+Werkzeug==2.0
